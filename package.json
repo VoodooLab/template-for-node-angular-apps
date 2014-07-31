@@ -1,7 +1,7 @@
 {
   "name": "node-angular",
   "version": "0.0.1",
-  "description": "",
+  "description": "Starter kit for Node and Angular",
   "main": "server.js",
   "dependencies": {
     "express" : "~4.5.1",
@@ -12,6 +12,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Ihar Daineka <badvoodoolab@gmail.com>",
   "license": "ISC"
 }

@@ -1,2 +1,2 @@
-template-for-node-angular-apps
-==============================
+starter-template-for-node-angular-apps
+======================================
